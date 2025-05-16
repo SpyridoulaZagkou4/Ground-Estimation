@@ -1,3 +1,5 @@
+The objective of this repo is:  Road detection from lidar data, clustering and object detection with a region growing algorithm
+
 # REQUIREMENTS
 This repository to run needs the vvr library developed by the VVR university lab
 
